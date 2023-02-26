@@ -1,0 +1,262 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.container>header{
+    width: 100%;
+    height: 300px;
+    background-image: url(bannerrr.jpg);
+    background-size: 100%100%;
+}
+.container>nav{
+    width: 100%;
+    line-height: 50px;
+    background-color: orangered;
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.container>nav>ul>li{
+    display: inline-block;
+
+}
+.container>nav>ul>li>a{
+    text-decoration: none;
+    color: white;
+    font-variant: small-caps;
+    font-size: 25px;
+    margin: 0 10px;
+}
+.container>nav>ul>li>a:hover{
+    color: yellow;
+}
+.container>nav>.search{
+    margin-top: 13px;
+    margin-right: 3px;
+
+}
+input{
+    height: 20px;
+    width:200px ;
+}
+button{
+    height: 30px;
+    color: red;
+}
+.container>.banner{
+    width: 100%;
+    height: 500px;
+    background-image: url(headd.jpg);
+    background-size: 100%100%;
+    margin-top: 10px;
+}
+.container>article{
+    width: 100%;
+    height: 2500px;
+    margin-top: 15px;
+  
+   
+}
+/* b1 */
+.container>article>.b1{
+    width: 1000px;
+    height: 300px;
+    box-shadow: 0 0 5px gray;
+    position: relative;
+
+}
+.container>article>.b1>img{
+    width: 350px;
+    margin: 25px 25px;
+    border-radius: 10px;
+    float: left;
+    
+    
+}
+.container>article>.b1>.chat{
+    position: relative;
+    margin-top: 10px;
+    top: 40px;
+  
+   
+}
+.container>article>.b1>.chat>p{
+    font-size: 20px;
+}
+/* b2 */
+.container>article>.b2{
+    width: 100%;
+    height: 300px;
+    box-shadow: 0 0 5px gray;
+    
+}
+.container>article>.b2>img{
+    width: 350px;
+    margin: 25px 25px;
+    border-radius: 10px;
+    float: left;
+    
+}
+.container>article>.b2>.chat{
+    position: relative;
+    margin-top: 10px;
+    top: 40px;
+    right: 5px;
+
+}
+.container>article>.b2>.chat>p{
+    font-size: 20px;
+}
+
+/* b3 */
+.container>article>.b3{
+    width: 100%;
+    height: 300px;
+    box-shadow: 0 0 5px gray;
+    
+    
+}
+.container>article>.b3>img{
+    width: 350px;
+    margin: 25px 25px;
+    border-radius: 10px;
+    float: left;
+    
+}
+.container>article>.b3>.chat{
+    position: relative;
+    margin-top: 10px;
+    top: 40px;
+    right: 5px;
+
+}
+.container>article>.b3>.chat>p{
+    font-size: 20px;
+}
+/* 
+b4 */
+
+.container>article>.b4{
+    width: 100%;
+    height: 300px;
+    box-shadow: 0 0 5px gray;
+    
+    
+}
+.container>article>.b4>img{
+    width: 380px;
+    margin: 25px 25px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    
+}
+.container>article>.b4>.chat{
+    position: relative;
+    margin-top: 10px;
+    top: 40px;
+    right: 5px;
+
+}
+.container>article>.b4>.chat>p{
+    font-size: 20px;
+}
+ 
+/* b5 */
+
+.container>article>.b5{
+    width: 100%;
+    height: 300px;
+    box-shadow: 0 0 5px gray;
+    
+    
+}
+.container>article>.b5>img{
+    width: 380px;
+    margin: 25px 25px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    
+}
+.container>article>.b5>.chat{
+    position: relative;
+    margin-top: 10px;
+    top: 40px;
+    right: 5px;
+
+}
+.container>article>.b5>.chat>p{
+    font-size: 20px;
+}
+
+.container>article>.b6{
+    width: 100%;
+    height: 300px;
+    box-shadow: 0 0 5px gray;
+    
+    
+}
+.container>article>.b6>img{
+    width: 380px;
+    margin: 25px 25px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    
+}
+.container>article>.b6>.chat{
+    position: relative;
+    margin-top: 10px;
+    top: 40px;
+    right: 5px;
+
+}
+.container>article>.b6>.chat>p{
+    font-size: 20px;
+}
+
+.container>article>.b7{
+    width: 100%;
+    height: 300px;
+    box-shadow: 0 0 5px gray;
+    
+    
+}
+.container>article>.b7>img{
+    width: 380px;
+    margin: 25px 25px;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    
+}
+.container>article>.b7>.chat{
+    position: relative;
+    margin-top: 10px;
+    top: 40px;
+    right: 5px;
+
+}
+.container>article>.b7>.chat>p{
+    font-size: 20px;
+}
+.container>footer{
+    width: 100%;
+    line-height: 50px;
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+.footer-content{
+    background-image: url(qatar\ \(1\)\ \(6\).png);
+    background-repeat: no-repeat;
+    background-position: 420px;
+
+}
+
+
+
+
